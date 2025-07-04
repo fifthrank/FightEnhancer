@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Blackwood Mod
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.1
 // @description  Мод для улучшенного опыта в аб
 // @copyright    2025, fifthrank
 // @license      MIT
